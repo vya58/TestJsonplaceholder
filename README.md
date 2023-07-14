@@ -15,4 +15,5 @@
 
 Использован Composer и клиентская HTTP-библиотека Guzzle
 PHP ^7.4
-Примеры вызовов класса в файле index.php
+Класс для работы с API: App\Src\Repository\JsonPlaceholderRepository
+Примеры вызовов класса в файле App\index.php
